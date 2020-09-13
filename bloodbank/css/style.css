@@ -1,0 +1,108 @@
+.website_name{
+	font-size: 48px;
+	color: white;
+	margin-right: 80px;
+}
+
+li a:hover {
+  background-color: brown;
+  font-size: 24px;
+}
+
+.bg_image
+{
+/*	float: left;	
+	margin: 20px; */
+	background-color: white;
+	
+}
+
+.signin_heading{
+	text-align: center;
+	color: white;
+	font-size: 50px;
+	height: 80px;
+	width: auto;
+	background-color: red;
+}
+
+.top_right_corner{
+	float: right;
+	color: white;
+}
+
+.float_image_class
+{
+	text-align: justify;
+	color: white;
+	font-size: 150%;
+}
+
+.background_class
+{
+	background-image: url(../images/red_blood_cells.jpg);
+	/* width height, the size of image will be exactly according to the div now */
+	height: auto;
+	background-size: justify; 
+	background-repeat: no-repeat;
+	background-origin: content-box;
+	border-style: groove;
+	
+}
+
+.heading_class{
+	text-align: center;
+	color: red;
+}
+
+.left_pan
+{
+	float: left;
+	width: auto;
+	height: 400px;
+	text-align: justify;
+	background-color: skyblue;
+	padding: 15px 15px 15px 15px;  /* top right bottom left */
+	border: 3px double;
+}
+
+.center_class{
+	align-items: center;
+	text-align: center;
+	width: auto;
+	padding-bottom: 5px;
+}
+
+
+.search_place{
+	float: right;
+}
+
+
+.donate_blood{
+	color: red;
+	font-size: 52px;
+}
+
+.donate_blood_bg{
+	background-image: url(../images/patient_hand_white_copy.jpg);
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+}
+
+
+/*
+.footer_class{
+	position: fixed;
+	border-style: double;
+	bottom: 0px;
+	background-color: blue;
+	text-align: center;
+	width: 100%;
+	height: 170px;
+}
+*/
+
+
+

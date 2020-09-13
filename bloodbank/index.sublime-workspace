@@ -1,0 +1,965 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"bg",
+				"background-color\tproperty"
+			],
+			[
+				"log",
+				"logout"
+			],
+			[
+				"cen",
+				"center"
+			],
+			[
+				"p",
+				"p\tTag"
+			],
+			[
+				"i",
+				"i\tTag"
+			],
+			[
+				"for",
+				"form"
+			],
+			[
+				"a",
+				"a"
+			],
+			[
+				"bloo",
+				"bloodgroupsearch"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"phone",
+				"phonetextbox"
+			],
+			[
+				"inli",
+				"inline-flex\tdisplay"
+			],
+			[
+				"border",
+				"border-style\tproperty"
+			],
+			[
+				"padding",
+				"padding-bottom\tproperty"
+			],
+			[
+				"inl",
+				"inline-flex\tdisplay"
+			],
+			[
+				"po",
+				"Postcode"
+			],
+			[
+				"inlin",
+				"inline-grid\tdisplay"
+			],
+			[
+				"inline",
+				"inline-table\tdisplay"
+			],
+			[
+				"paddi",
+				"padding\tproperty"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"fot",
+				"font-size\tproperty"
+			],
+			[
+				"ju",
+				"justify\ttext-align"
+			],
+			[
+				"manua",
+				"manualmodel_obj"
+			],
+			[
+				"blood",
+				"blood_donors"
+			],
+			[
+				"sign",
+				"signup"
+			],
+			[
+				"pa",
+				"padding-top\tproperty"
+			],
+			[
+				"align",
+				"align-items\tproperty"
+			],
+			[
+				"btn",
+				"btn-danger"
+			],
+			[
+				"backgr",
+				"background-color\tproperty"
+			],
+			[
+				"top",
+				"top_right_corner"
+			],
+			[
+				"cell",
+				"cellpadding\tAttr"
+			],
+			[
+				"th",
+				"thead\tTag"
+			],
+			[
+				"local",
+				"localhost"
+			],
+			[
+				"margi",
+				"margin-bottom\tproperty"
+			],
+			[
+				"sid",
+				"sid"
+			],
+			[
+				"b",
+				"border\tAttr"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"R",
+				"Registered"
+			],
+			[
+				"Re",
+				"Registration"
+			],
+			[
+				"background",
+				"background-position\tproperty"
+			],
+			[
+				"backgrou",
+				"background-size\tproperty"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"donate",
+				"donate_blood_save_life"
+			],
+			[
+				"margin",
+				"margin-right\tproperty"
+			],
+			[
+				"fonts",
+				"font-size\tproperty"
+			],
+			[
+				"justify",
+				"justify-all\ttext-align"
+			],
+			[
+				"al",
+				"align-self\tproperty"
+			],
+			[
+				"backg",
+				"background-color\tproperty"
+			],
+			[
+				"ima",
+				"images"
+			],
+			[
+				"size",
+				"font-size\tproperty"
+			],
+			[
+				"left",
+				"margin-left\tproperty"
+			],
+			[
+				"inp",
+				"input-group-text"
+			],
+			[
+				"input",
+				"input-group-text"
+			],
+			[
+				"loal",
+				"localhost"
+			],
+			[
+				"mysqli",
+				"mysqli_close"
+			],
+			[
+				"loca",
+				"localhost"
+			],
+			[
+				"hobbies",
+				"hobbiesfirstid"
+			],
+			[
+				"hobbies3",
+				"hobbies3id"
+			],
+			[
+				"hobbies2",
+				"hobbies2id"
+			],
+			[
+				"hobbies1",
+				"hobbies1id"
+			],
+			[
+				"hobbi",
+				"hobbies2id"
+			],
+			[
+				"hobb",
+				"hobbies1id"
+			],
+			[
+				"cous",
+				"courseid"
+			],
+			[
+				"course",
+				"courseid"
+			],
+			[
+				"email",
+				"emailid"
+			],
+			[
+				"val",
+				"value"
+			],
+			[
+				"gend",
+				"gender1id"
+			],
+			[
+				"gen",
+				"gender1"
+			],
+			[
+				"hob",
+				"hobbies1"
+			],
+			[
+				"tmp",
+				"tmp_location"
+			],
+			[
+				"var",
+				"var_a"
+			],
+			[
+				"str",
+				"string"
+			],
+			[
+				"S",
+				"STUDENT"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"fir",
+				"first_assoc"
+			],
+			[
+				"arr",
+				"array\t$… = array (…)"
+			],
+			[
+				"array",
+				"array"
+			],
+			[
+				"frist",
+				"first"
+			],
+			[
+				"first",
+				"first_array"
+			],
+			[
+				"fri",
+				"first_array"
+			],
+			[
+				"test",
+				"testing_arguments"
+			],
+			[
+				"string",
+				"string_res"
+			],
+			[
+				"col",
+				"col-lg-4"
+			],
+			[
+				"row",
+				"grid-row-gap\tproperty"
+			],
+			[
+				"paddin",
+				"padding-bottom\tproperty"
+			],
+			[
+				"spacing",
+				"border-spacing\tproperty"
+			],
+			[
+				"img",
+				"img-thumbnail"
+			],
+			[
+				"text",
+				"text_decoration"
+			],
+			[
+				"co",
+				"cover\tbackground-size"
+			],
+			[
+				"navbar-",
+				"navbar-toggler"
+			],
+			[
+				"navb",
+				"navbar"
+			],
+			[
+				"nav",
+				"nav-item"
+			],
+			[
+				"navbar",
+				"navbar-nav"
+			],
+			[
+				"inpu",
+				"input-group-prepend"
+			],
+			[
+				"numbe",
+				"numbers"
+			],
+			[
+				"number",
+				"Number"
+			],
+			[
+				"event",
+				"Event"
+			],
+			[
+				"onkey",
+				"onkeypress\tAttr"
+			],
+			[
+				"get",
+				"get\tGet Elements"
+			],
+			[
+				"t",
+				"title\tAttr"
+			],
+			[
+				"backgroundcl",
+				"background-color\tproperty"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"padd",
+				"padding\tproperty"
+			],
+			[
+				"back",
+				"background_class"
+			],
+			[
+				"textal",
+				"text-align\tproperty"
+			],
+			[
+				"bacl",
+				"background-color\tproperty"
+			],
+			[
+				"s",
+				"selectionDirection\tAttr"
+			],
+			[
+				"opt",
+				"option\tTag"
+			],
+			[
+				"ne",
+				"Neelum"
+			],
+			[
+				"m",
+				"margin-bottom\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.php",
+			"settings":
+			{
+				"buffer_size": 5388,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "about.php",
+			"settings":
+			{
+				"buffer_size": 4574,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "account.php",
+			"settings":
+			{
+				"buffer_size": 5711,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "blood_donors.php",
+			"settings":
+			{
+				"buffer_size": 5897,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "signin.php",
+			"settings":
+			{
+				"buffer_size": 2050,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "support.php",
+			"settings":
+			{
+				"buffer_size": 4757,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/xampp/htdocs/bloodbank",
+		"/C/xampp/htdocs/bloodbank/css"
+	],
+	"file_history":
+	[
+		"/C/xampp/htdocs/bloodbank/insert.php",
+		"/C/xampp/htdocs/bloodbank/css/style.css",
+		"/C/xampp/htdocs/bloodbank/signup.php",
+		"/C/xampp/htdocs/bloodbank/signin.php",
+		"/C/xampp/htdocs/bloodbank/account.php",
+		"/C/xampp/htdocs/bloodbank/index.php",
+		"/C/xampp/htdocs/bloodbank/about.php",
+		"/C/xampp/htdocs/bloodbank/support.php",
+		"/C/xampp/htdocs/bloodbank/blood_donors.php",
+		"/C/xampp/htdocs/bloodbank/signout.php",
+		"/D/Software Engineering/5th Semester/Web Engineering Lab/Lab 1/HTML/Form.html",
+		"/D/Software Engineering/5th Semester/Web Engineering Lab/Lab 4/Tasks/7 validation.html",
+		"/D/Software Engineering/5th Semester/Web Engineering Lab/Lab 8/PHP Helping Task/search.php",
+		"/D/Software Engineering/5th Semester/Web Engineering Lab/Lab 8/B15_PHP/MySQL/viewData.php",
+		"/D/Software Engineering/5th Semester/Web Engineering Lab/Lab 8/PHP Helping Task/viewData.php",
+		"/D/Software Engineering/5th Semester/Web Engineering Lab/Lab 8/PHP Helping Task/updated_data.php",
+		"/D/Software Engineering/5th Semester/Web Engineering Lab/Lab 6/Task/css/style.css",
+		"/C/Users/Shezzy/Desktop/bloodbank/css/style.css",
+		"/C/Users/Shezzy/Desktop/bloodbank/index.php",
+		"/D/Software Engineering/5th Semester/Web Engineering Lab/Lab 8/PHP Helping Task/insert.php",
+		"/D/Software Engineering/5th Semester/Web Engineering Lab/Lab 6/Task/index.html",
+		"/D/Software Engineering/5th Semester/Web Engineering Lab/Lab 3/CSS Lab B15/CSS/css/style.css",
+		"/D/Software Engineering/5th Semester/Web Engineering Lab/LAB 9/Task 3/sessions.php",
+		"/D/Software Engineering/5th Semester/Web Engineering Lab/LAB 9/Task 3/sessions_two.php",
+		"/C/xampp/htdocs/bloodbank/connection.php",
+		"/D/Software Engineering/5th Semester/Web Engineering Lab/Lab 8/B15_PHP/MySQL/insert.php",
+		"/D/Software Engineering/5th Semester/Web Engineering Lab/LAB 9/Task 3/connection.php",
+		"/D/Software Engineering/5th Semester/Web Engineering Lab/Lab 5/BootStrap/icons library/open-iconic-master/svg/account-login.svg",
+		"/D/Software Engineering/5th Semester/Web Engineering Lab/Lab 8/B15_PHP/upload_file.php",
+		"/D/Software Engineering/5th Semester/Web Engineering Lab/Lab 8/B15_PHP/post_superglobal.php",
+		"/D/Software Engineering/5th Semester/Web Engineering Lab/Lab 8/B15_PHP/get_superglobal.php",
+		"/C/xampp/htdocs/laravel/resources/views/welcome.blade.php",
+		"/C/xampp/htdocs/wordpresslab/wordpress/.htaccess",
+		"/C/xampp/htdocs/laravel/routes/web.php",
+		"/D/Software Engineering/5th Semester/Web Engineering/Assignments/Assignment 1/index.html",
+		"/D/Software Engineering/5th Semester/Web Engineering/Assignments/Assignment 1/style.css",
+		"/D/Software Engineering/5th Semester/Web Engineering/Assignments/Assign 1/task 1.html",
+		"/D/Software Engineering/5th Semester/Web Engineering/Assignments/Assign 1/New Text Document.html",
+		"/D/Software Engineering/5th Semester/Web Engineering/Assignments/Assign 1/validation.html",
+		"/D/Software Engineering/5th Semester/Web Engineering Lab/Lab 4/JavaScript/js/javascript.js",
+		"/D/Software Engineering/5th Semester/Web Engineering Lab/Lab 4/JavaScript/formvalidation.html",
+		"/D/Software Engineering/5th Semester/Web Engineering/Assignments/Assign 1/DOCTYPE html-WPS Office.html",
+		"/D/Software Engineering/5th Semester/Web Engineering Lab/Project/Project data/bloodbank/signup.html",
+		"/C/Users/Shezzy/Desktop/B15_PHP/login/home.php",
+		"/C/Users/Shezzy/Desktop/B15_PHP/login/connection.php",
+		"/C/Users/Shezzy/Desktop/B15_PHP/login/index.php",
+		"/C/Users/Shezzy/Desktop/B15_PHP/login/logout.php",
+		"/D/Software Engineering/5th Semester/Web Engineering Lab/Project/Project data/bloodbank/signin.html",
+		"/D/Software Engineering/5th Semester/Web Engineering Lab/Project/Project data/bloodbank/index.html",
+		"/C/xampp/htdocs/laravel/database/migrations/2019_01_29_092431_create_manualmodels_table.php",
+		"/C/xampp/htdocs/laravel/app/Http/Controllers/TestControllerModel.php",
+		"/C/xampp/htdocs/laravel/app/manualmodel.php",
+		"/C/xampp/htdocs/laravel/app/User.php",
+		"/D/Software Engineering/5th Semester/Web Engineering Lab/Project/Project data/bloodbank/css/style.css",
+		"/C/Users/Shezzy/Desktop/Shahzad Haider - 16MDSWE0631/Question2/insert.php",
+		"/D/Software Engineering/5th Semester/Web Engineering Lab/Lab 3/Task/CSS/style.css",
+		"/C/Users/Shezzy/Desktop/website/index.html",
+		"/D/Software Engineering/5th Semester/Web Engineering Lab/Lab 1/Shahzad Haider. 16MDSWE0631/Home.html",
+		"/C/xampp/htdocs/bloodbank/index.html",
+		"/C/xampp/htdocs/laravel/database/migrations/2019_01_22_095852_add_newadded_column_to_sectiona_tables.php",
+		"/C/xampp/htdocs/laravel/resources/views/passingdataToView.blade.php",
+		"/C/xampp/htdocs/laravel/app/Providers/AppServiceProvider.php",
+		"/C/xampp/htdocs/laravel/app/Http/Controllers/labtask.php",
+		"/C/xampp/htdocs/laravel/app/Http/Controllers/Controller.php",
+		"/C/xampp/htdocs/laravel/database/migrations/2019_01_22_080123_create_section_a_table.php",
+		"/C/xampp/apache/conf/extra/httpd-vhosts.conf",
+		"/C/Windows/System32/Drivers/etc/hosts.ics",
+		"/C/Windows/System32/Drivers/etc/hosts",
+		"/C/xampp/htdocs/laravel/.env",
+		"/C/xampp/htdocs/laravel/database/migrations/2014_10_12_000000_create_users_table.php",
+		"/D/Software Engineering/5th Semester/Web Engineering Lab/Lab 11/laravel lab - Copy/web.php",
+		"/C/xampp/htdocs/laravel/public/index.php",
+		"/C/xampp/htdocs/labexam/insert.php",
+		"/C/xampp/htdocs/Batch15cse/upload_file.php",
+		"/C/xampp/htdocs/labexam/new.php",
+		"/C/Users/Shezzy/Desktop/downloaded/LAB 9-20190111T060101Z-001.zip",
+		"/C/xampp/htdocs/firstlab/task4.php",
+		"/C/xampp/htdocs/firstlab/task3.php",
+		"/C/xampp/htdocs/firstlab/task1.php",
+		"/C/xampp/htdocs/firstlab/task2.php",
+		"/C/xampp/htdocs/laravel/config/mail.php",
+		"/C/Users/Shezzy/Desktop/B15_PHP/ajax/multiple_ajax.php",
+		"/C/Users/Shezzy/Desktop/B15_PHP/ajax/index.php",
+		"/C/Users/Shezzy/Desktop/B15_PHP/ajax/data.php",
+		"/C/Users/Shezzy/Desktop/B15_PHP/ajax/asynchronous_false.php",
+		"/C/Users/Shezzy/Desktop/B15_PHP/ajax/ajax_database.php",
+		"/C/xampp/htdocs/Lab10/sessions2.php",
+		"/C/xampp/htdocs/Lab10/sessions.php",
+		"/C/Users/Shezzy/Desktop/B15_PHP/sessions_two.php",
+		"/C/Users/Shezzy/Desktop/B15_PHP/sessions.php",
+		"/C/xampp/htdocs/Lab10/connection.php",
+		"/C/Users/Shezzy/Desktop/B15_PHP/connection.php",
+		"/C/xampp/htdocs/labexam/delete.php",
+		"/C/xampp/htdocs/labexam/update.php",
+		"/C/xampp/htdocs/labexam/updated_data.php",
+		"/C/xampp/htdocs/labexam/index.php",
+		"/C/xampp/htdocs/labexam/viewData.php",
+		"/C/Users/Shezzy/Desktop/file.html",
+		"/D/Software Engineering/5th Semester/Web Engineering Lab/Lab 3/CSS Lab B15/CSS/footer.htm",
+		"/D/Software Engineering/5th Semester/Web Engineering Lab/Lab 5/Tasks/Task 1.html",
+		"/C/xampp/htdocs/labexam/connection.php",
+		"/C/xampp/htdocs/labexam/style.css",
+		"/C/Users/Shezzy/Desktop/Shahzad Haider - 16MDSWE0631/Question2/update.php",
+		"/C/Users/Shezzy/Desktop/Shahzad Haider - 16MDSWE0631/Question2/delete.php",
+		"/C/Users/Shezzy/Desktop/Shahzad Haider - 16MDSWE0631/Question2/index.php",
+		"/C/Users/Shezzy/Desktop/Shahzad Haider - 16MDSWE0631/Question2/connection.php",
+		"/C/Users/Shezzy/Desktop/Shahzad Haider - 16MDSWE0631/Question1/css/style.css",
+		"/C/Users/Shezzy/Desktop/Shahzad Haider - 16MDSWE0631/Question1/index.html",
+		"/G/index.html",
+		"/D/Software Engineering/5th Semester/Web Engineering Lab/Lab 8/PHP Helping Task/index.php",
+		"/C/Users/Shezzy/Desktop/test/style.css",
+		"/C/Users/Shezzy/Desktop/test/New Text Document.html",
+		"/C/Users/Shezzy/Desktop/new.html",
+		"/D/Software Engineering/5th Semester/Web Engineering Lab/Lab 3/CSS Lab B15/CSS/float&clear.htm",
+		"/C/Users/Shezzy/Desktop/website/css/style.css",
+		"/C/Users/Shezzy/Desktop/website index.html",
+		"/C/Users/Shezzy/Desktop/blood bank index.html",
+		"/D/Software Engineering/5th Semester/Web Engineering Lab/Project/Project data/bloodbank/example.html",
+		"/C/xampp/htdocs/prac2/index.php",
+		"/C/xampp/htdocs/prac2/delete.php",
+		"/C/xampp/htdocs/prac2/update.php",
+		"/C/xampp/htdocs/prac2/insert.php",
+		"/C/xampp/htdocs/prac2/connection.php",
+		"/C/xampp/htdocs/prac2/updated_data.php",
+		"/C/xampp/htdocs/prac2/search.php",
+		"/C/xampp/htdocs/prac2/viewData.php",
+		"/C/Users/Shezzy/Desktop/practice.html",
+		"/D/Software Engineering/5th Semester/Web Engineering Lab/Lab 4/Tasks/9.html"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"card-img",
+			"img-card",
+			"new_entry",
+			";\n",
+			"date",
+			"ate",
+			"RESET",
+			"5"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5388,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1441,
+								1441
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 3215.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "about.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4574,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1441,
+								1441
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 731.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "account.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5711,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1441,
+								1441
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 2725.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "blood_donors.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5897,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5536,
+								5536
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 3226.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "signin.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2050,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								754,
+								754
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "support.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4757,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1441,
+								1441
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 760.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
